@@ -45,7 +45,7 @@ public class Bicola extends ColaLista{
                 fin = a;
             }
         } else
-            throw new Exception("Eliminar de una bicola vacÃ­a");
+            throw new Exception("Eliminar de una bicola vacia");
         return aux;
     }
 
@@ -56,7 +56,7 @@ public class Bicola extends ColaLista{
     // devuelve el elemento final
     public Object finalBicola() throws Exception {
         if (colaVacia()) {
-            throw new Exception("Error: cola vacÃ­a");
+            throw new Exception("Error: cola vacia");
         }
         return (fin.elemento);
     }

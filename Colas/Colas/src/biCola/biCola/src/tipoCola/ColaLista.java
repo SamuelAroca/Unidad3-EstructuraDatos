@@ -33,7 +33,7 @@ public class ColaLista {
 
     // libera todos los nodos de la cola
     public void borrarCola() {
-        for (; frente != null;) {
+        while (frente != null) {
             frente = frente.siguiente;
         }
         System.gc();

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/biCola.iml" filepath="$PROJECT_DIR$/biCola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bicola.iml" filepath="$PROJECT_DIR$/bicola.iml" />
     </modules>
   </component>
 </project>
