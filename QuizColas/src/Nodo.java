@@ -1,5 +1,3 @@
-package tipoCola;
-
 public class Nodo {
     Object elemento;
     Nodo siguiente;

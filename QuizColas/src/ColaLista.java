@@ -1,5 +1,3 @@
-package tipoCola;
-
 public class ColaLista {
     protected Nodo frente;
     protected Nodo fin;

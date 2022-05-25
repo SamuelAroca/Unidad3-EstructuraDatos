@@ -1,5 +1,3 @@
-package tipoCola;
-
 public class Bicola extends ColaLista{
     // inicializa frente y fin a null
     public Bicola() {
